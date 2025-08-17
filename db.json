@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "img": "https://techterms.com/img/xl/laptop_586.png",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/cdef9bb513b5d6254423347f979a2631b0b9633f_1716883360.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 3,
+        "img": "https://d34mvw1if3ud0g.cloudfront.net/66643/Asus-Vivobook-S-14--Q423SA-U5512-_20250418-053319_full.jpeg",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIa_UBqAA_dbiNa_jWAa5pNhHa4lXnNFO9Fg&s",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVDhn2N24APBZeLw0P28U3Epf34a1VjGK_eA&s",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskceF66f8TajbRk69-Vg1RuNL-vuce1e7X2lvHmZwwj56t9a2qFeFcURcMC3cWiqU23o&usqp=CAU",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQ5ZIIveHfwjsHQ1q68xfgUZDg-WK-0VHHw&s",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 8,
+        "img": "https://cdn.mos.cms.futurecdn.net/sJUAmbBLMmhEPcMqtQGGGg-1200-80.jpg",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 9,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFUwEl4eoFYPIqY8ouLaKkXcLpmGP_Nvwzg&s",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    },
+    {
+        "id": 10,
+        "img": "https://cdn.thewirecutter.com/wp-content/media/2025/05/BEST-WINDOWS-LAPTOPS-05537.jpg",
+        "name": "laptop Asus",
+        "title": "The best Windows laptop",
+        "price": "100.1$",
+        "des": "The Vivobook S 14 has category-leading battery life, a vivid OLED display, and a fun customizable RGB keyboard, all in a thin-and-light body.",
+        "rount": " 52.2",
+        "cat": "laptop"
+    }
+    ]
